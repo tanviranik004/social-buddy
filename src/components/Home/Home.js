@@ -24,7 +24,7 @@ const classes = useStyles();
             <PeopleIcon></PeopleIcon>
              
             </IconButton>
-            <Typography variant="h6" color="inherit"> Social Buddy-village-community </Typography>
+            <Typography variant="h6" color="inherit"> Social Buddy</Typography>
             
             <Button  className={classes.logout} color="inherit">LogOut</Button>
             
